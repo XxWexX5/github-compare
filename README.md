@@ -1,7 +1,7 @@
 # Github Compare
 By Wevison Ramalho.
 
-[![image-github.png](https://i.postimg.cc/bw1J5SXK/image-github.png)](https://postimg.cc/87PNJ5zH)
+[![image-github-5.png](https://i.postimg.cc/wjpmhfG3/image-github-5.png)](https://postimg.cc/RNghmR9z)
 
 Deploy:
 https://github-compare-seven.vercel.app
